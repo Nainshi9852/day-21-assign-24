@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\bin\Debug\EmpLib.dll
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\bin\Debug\EmpLib.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\obj\Debug\EmpLib.dll
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-21\EmpLib\EmpLib\obj\Debug\EmpLib.pdb
